@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    color: white;
+}
+.border1 {
+    border: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.border2 {
+    border: crimson;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.border3 {
+    border: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.border4 {
+    border: greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.border5 {
+    border: hotpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
