@@ -2,7 +2,7 @@
 FEWD Summer 2023 in-class activity.
 
 Steps outlined below:
-1. Create an idex.html file.
+1. Create an index.html file.
     a. Add 2 heading and 2 paragraphs to the file contained in divs
     b. Add 5 divs with content in them (paragraphs, images, tables, etc.)
 2. Create a style.css file
